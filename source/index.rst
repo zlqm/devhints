@@ -10,6 +10,9 @@ Welcome to devhints's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   ./bash/index.rst
+   ./go/index.rst
+
 
 
 Indices and tables
